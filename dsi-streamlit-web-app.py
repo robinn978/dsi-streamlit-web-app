@@ -9,7 +9,6 @@ model= joblib.load("model.joblib")
 
 # add title and instructions
 st.title("Purchase Prediction Model")
-st.title ("Hi Pumpi")
 st.subheader("Enter customer information and submit for likelihood to purchase")
 
 # age input form
